@@ -1,4 +1,4 @@
-# Retalho
+# Retalhos
 
 Editor de vídeo que roda no navegador, no computador e no celular.
 
