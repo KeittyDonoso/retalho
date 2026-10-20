@@ -1,0 +1,106 @@
+# Sound effect credits
+
+These recordings are provided under CC0 1.0 (public domain) by their listed Freesound contributors. Attribution is not required; source provenance is retained here.
+
+- cash-register-1: “Cash Register Purchase”, by Zott820. https://freesound.org/people/Zott820/sounds/209578/
+- cash-register-2: “Cash Register Fake.wav”, by CapsLok. https://freesound.org/people/CapsLok/sounds/184438/
+- cash-register-3: “Cha Ching.wav”, by deleted_user_96253. https://freesound.org/people/deleted_user_96253/sounds/351304/
+- cash-register-4: “Store Scanner Beep”, by zerolagtime. https://freesound.org/people/zerolagtime/sounds/144418/
+- cash-chaching-1: “cha ching 1.wav”, by angelak_m. https://freesound.org/people/angelak_m/sounds/132169/
+- question-huh-1: “Huh? - Vocal”, by davdud101. https://freesound.org/people/davdud101/sounds/150505/
+- question-huh-2: “approving hm.wav”, by trimono. https://freesound.org/people/trimono/sounds/519112/
+- question-huh-3: “confused what?”, by Alivvie. https://freesound.org/people/Alivvie/sounds/323527/
+- question-hm-1: “Hmm question.wav”, by esperar. https://freesound.org/people/esperar/sounds/170768/
+- question-hm-2: “OneHmm-question.wav”, by esperar. https://freesound.org/people/esperar/sounds/170779/
+- question-hm-3: “8bit Question Mark”, by plasterbrain. https://freesound.org/people/plasterbrain/sounds/399093/
+- question-hm-4: “question noise.wav”, by AuDRoger. https://freesound.org/people/AuDRoger/sounds/471205/
+- swish-1: “Whoosh”, by qubodup. https://freesound.org/people/qubodup/sounds/60013/
+- swish-2: “Sword.wav”, by hello_flowers. https://freesound.org/people/hello_flowers/sounds/37596/
+- swish-3: “SWOSH-01 44.1kHz”, by qubodup. https://freesound.org/people/qubodup/sounds/59988/
+- swish-4: “Swing Woosh”, by Jofae. https://freesound.org/people/Jofae/sounds/389590/
+- whoosh-1: “Woosh”, by florianreichelt. https://freesound.org/people/florianreichelt/sounds/683096/
+- whoosh-2: “fast simple chop 5.aif”, by dave.des. https://freesound.org/people/dave.des/sounds/127197/
+- whoosh-3: “Throwing / Whip Effect”, by denao270. https://freesound.org/people/denao270/sounds/346373/
+- whoosh-4: “woosh.wav”, by freakinbehemoth. https://freesound.org/people/freakinbehemoth/sounds/243400/
+- title-swoosh-1: “swoosh”, by Halgrimm. https://freesound.org/people/Halgrimm/sounds/169867/
+- title-swoosh-2: “quick woosh”, by florianreichelt. https://freesound.org/people/florianreichelt/sounds/683101/
+- title-swoosh-3: “whoosh.wav”, by LloydEvans09. https://freesound.org/people/LloydEvans09/sounds/332003/
+- title-swoosh-4: “Whoosh #1”, by Kinoton. https://freesound.org/people/Kinoton/sounds/427823/
+- ding-1: “Ding Dong”, by MatthewWong. https://freesound.org/people/MatthewWong/sounds/361564/
+- ding-2: “Ringing bell - happy.wav”, by domrodrig. https://freesound.org/people/domrodrig/sounds/116779/
+- ding-3: “correct”, by ertfelda. https://freesound.org/people/ertfelda/sounds/243701/
+- ding-4: “bell ding 1.wav”, by 5ro4. https://freesound.org/people/5ro4/sounds/611113/
+- notification-1: “Disco Clap”, by NenadSimic. https://freesound.org/people/NenadSimic/sounds/169085/
+- notification-2: “Lil Pip”, by adh.dreaming. https://freesound.org/people/adh.dreaming/sounds/634690/
+- notification-3: “Cow Bells 01.wav”, by LilMati. https://freesound.org/people/LilMati/sounds/481151/
+- notification-4: “Soft-Notifications - Bell - Ding-Dong.mp3”, by LegitCheese. https://freesound.org/people/LegitCheese/sounds/571513/
+- success-1: “Correct.wav”, by CogFireStudios. https://freesound.org/people/CogFireStudios/sounds/421002/
+- success-2: “8-bit Correct Answer”, by JapanYoshiTheGamer. https://freesound.org/people/JapanYoshiTheGamer/sounds/361263/
+- success-3: “Correct.wav”, by bwg2020. https://freesound.org/people/bwg2020/sounds/456161/
+- success-4: “Correct Answer / That's Right!”, by Beetlemuse. https://freesound.org/people/Beetlemuse/sounds/528957/
+- mouth-pop-1: “Cartoon Pop (Distorted)”, by unfa. https://freesound.org/people/unfa/sounds/245646/
+- mouth-pop-2: “Message Pop Sound”, by ImAFoley. https://freesound.org/people/ImAFoley/sounds/537061/
+- mouth-pop-3: “Popping”, by supersound23. https://freesound.org/people/supersound23/sounds/431532/
+- mouth-pop-4: “Pop Sound”, by ConarB13. https://freesound.org/people/ConarB13/sounds/401542/
+- cork-pop-1: “Pop sound”, by deraj. https://freesound.org/people/deraj/sounds/202230/
+- cork-pop-2: “Champagne Cork”, by KenRT. https://freesound.org/people/KenRT/sounds/392624/
+- cork-pop-3: “Plop!”, by Breviceps. https://freesound.org/people/Breviceps/sounds/447910/
+- cork-pop-4: “cartoon pop or drip”, by AlaskaRobotics. https://freesound.org/people/AlaskaRobotics/sounds/221091/
+- bubble-pop-1: “Pop 01”, by LilMati. https://freesound.org/people/LilMati/sounds/506546/
+- bubble-pop-2: “UI Button Click”, by benzix2. https://freesound.org/people/benzix2/sounds/467951/
+- bubble-pop-3: “Pop 02”, by LilMati. https://freesound.org/people/LilMati/sounds/506545/
+- pop-ui-1: “Mouth pop”, by jcallison. https://freesound.org/people/jcallison/sounds/258269/
+- pop-ui-2: “Pop in sfx”, by Sadiquecat. https://freesound.org/people/Sadiquecat/sounds/824189/
+- pop-ui-3: “The Best Bubble Pop Sound For Game and UI”, by el_boss. https://freesound.org/people/el_boss/sounds/669918/
+- pop-ui-4: “Click Pop - two part”, by GameAudio. https://freesound.org/people/GameAudio/sounds/220208/
+- photo-1: “iPhone Camera Capture.wav”, by pooky1. https://freesound.org/people/pooky1/sounds/431588/
+- photo-2: “Camera Shutter”, by roachpowder. https://freesound.org/people/roachpowder/sounds/170229/
+- photo-3: “350d shutter.wav”, by xef6. https://freesound.org/people/xef6/sounds/61059/
+- photo-4: “iOS Camera flash”, by Rvgerxini. https://freesound.org/people/Rvgerxini/sounds/455511/
+- pencil-1: “Scribble”, by Tomoyo Ichijouji. https://freesound.org/people/Tomoyo Ichijouji/sounds/211247/
+- pencil-2: “Scribble_short.wav”, by waldram. https://freesound.org/people/waldram/sounds/257518/
+- pencil-3: “PEN SIGNATURE SIGNING 2.wav”, by ListenTonyBoy. https://freesound.org/people/ListenTonyBoy/sounds/326961/
+- pencil-4: “Draw.wav”, by BitzHawk. https://freesound.org/people/BitzHawk/sounds/524004/
+- pen-1: “Pencil Scribble (9)”, by JellyDaisies. https://freesound.org/people/JellyDaisies/sounds/761665/
+- pen-2: “scribble”, by MasterSuite. https://freesound.org/people/MasterSuite/sounds/667399/
+- pen-3: “scribbling.aif”, by joseph.larralde. https://freesound.org/people/joseph.larralde/sounds/352430/
+- chalk-1: “Write/Draw with chalk on board”, by Breviceps. https://freesound.org/people/Breviceps/sounds/447925/
+- chalk-2: “Chalk.wav”, by LukeUPF. https://freesound.org/people/LukeUPF/sounds/233049/
+- chalk-3: “writing - chalk - set down 01.wav”, by Anthousai. https://freesound.org/people/Anthousai/sounds/398489/
+- chalk-4: “drawing with chalk 01”, by _sinny_. https://freesound.org/people/_sinny_/sounds/822704/
+- typing-1: “Mouse click sounds”, by Masgame. https://freesound.org/people/Masgame/sounds/347544/
+- typing-2: “digital_typing.wav”, by Sky_Motion. https://freesound.org/people/Sky_Motion/sounds/416777/
+- typing-3: “Data Reveal Sound”, by Sky_Motion. https://freesound.org/people/Sky_Motion/sounds/511418/
+- typing-4: “Keyboard typing”, by Breviceps. https://freesound.org/people/Breviceps/sounds/447909/
+- click-1: “mouse-click-double-00.flac”, by pbimal. https://freesound.org/people/pbimal/sounds/534104/
+- click-2: “Normal click”, by Breviceps. https://freesound.org/people/Breviceps/sounds/448086/
+- click-3: “Button Tick”, by NenadSimic. https://freesound.org/people/NenadSimic/sounds/268108/
+- clock-2: “Ticking Clock”, by AntumDeluge. https://freesound.org/people/AntumDeluge/sounds/188033/
+- clock-3: “Ticking Stopwatch (dry)”, by DavidJGurney. https://freesound.org/people/DavidJGurney/sounds/275802/
+- clock-4: “ticking of the clock 02.wav”, by blukotek. https://freesound.org/people/blukotek/sounds/412750/
+- timer-1: “Countdown Start”, by stomachache. https://freesound.org/people/stomachache/sounds/680825/
+- timer-2: “stopwatch beep.wav”, by vestibule-door. https://freesound.org/people/vestibule-door/sounds/668985/
+- timer-3: “Synthetic Shot Timer”, by AnthonyChan0. https://freesound.org/people/AnthonyChan0/sounds/447761/
+- riser-1: “Riser sound effect short.wav”, by syntheffects. https://freesound.org/people/syntheffects/sounds/685256/
+- riser-2: “Energy Bounce 1”, by magnuswaker. https://freesound.org/people/magnuswaker/sounds/523088/
+- riser-3: “Riser”, by Rizzard. https://freesound.org/people/Rizzard/sounds/561207/
+- riser-4: “sweep.wav”, by reathance. https://freesound.org/people/reathance/sounds/503815/
+- sparkle-1: “cartoon_wink_magic_sparkle.wav”, by MLaudio. https://freesound.org/people/MLaudio/sounds/511485/
+- sparkle-2: “Heal - Rpg”, by colorsCrimsonTears. https://freesound.org/people/colorsCrimsonTears/sounds/562292/
+- sparkle-3: “achievement-sparkle”, by SkySpeira. https://freesound.org/people/SkySpeira/sounds/715067/
+- sparkle-4: “Sparkling Star 01.wav”, by LilMati. https://freesound.org/people/LilMati/sounds/462095/
+- impact-1: “PUNCH-BOXING-03.wav”, by newagesoup. https://freesound.org/people/newagesoup/sounds/348242/
+- impact-2: “Sub Drop Smooth.wav”, by newagesoup. https://freesound.org/people/newagesoup/sounds/428073/
+- impact-3: “PUNCH-BOXING-02.wav”, by newagesoup. https://freesound.org/people/newagesoup/sounds/348243/
+- impact-4: “Synth Bass Drop Impact”, by AlexLane. https://freesound.org/people/AlexLane/sounds/475005/
+- glitch-1: “Glitch”, by AmicaSys. https://freesound.org/people/AmicaSys/sounds/332711/
+- glitch-2: “snapcracklepop.wav”, by dayvonjersen. https://freesound.org/people/dayvonjersen/sounds/156340/
+- glitch-3: “glitch096.wav”, by syn2x-v0. https://freesound.org/people/syn2x-v0/sounds/2314/
+- glitch-4: “Bleep”, by Posontic. https://freesound.org/people/Posontic/sounds/429677/
+- message-1: “Message Sent”, by Froey_. https://freesound.org/people/Froey_/sounds/760370/
+- message-2: “Chatton.mp3”, by Kastenfrosch. https://freesound.org/people/Kastenfrosch/sounds/113986/
+- message-3: “Message sound.wav”, by Sunart1. https://freesound.org/people/Sunart1/sounds/592772/
+- soft-error-1: “negativebeep.wav”, by Splashdust. https://freesound.org/people/Splashdust/sounds/67454/
+- soft-error-2: “acess denied buzz”, by Jacco18. https://freesound.org/people/Jacco18/sounds/419023/
+- soft-error-3: “Error Signal 2”, by Breviceps. https://freesound.org/people/Breviceps/sounds/445978/
+- soft-error-4: “Sci-fi Warning Beep”, by JapanYoshiTheGamer. https://freesound.org/people/JapanYoshiTheGamer/sounds/361247/
